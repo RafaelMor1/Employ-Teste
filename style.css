@@ -1,0 +1,63 @@
+html {
+    background-color: #f1f1f1;
+}
+
+.navbar-nav > * {
+    margin: 10px;
+    height: auto;
+    font-family: 'Mont', sans-serif;
+}
+
+#pricing {
+    color: #1EA358;
+}
+
+#login-button {
+    width: 100px;
+}
+
+#text-persuasive {
+    background-color: #4ACD87;
+    height: 400px;
+}
+
+#text-persuasive > h1 {
+    padding-top: 50px;
+}
+
+#text-persuasive2 {
+    font-family: 'Mont', sans-serif;
+}
+
+.card {
+    width: 300px;
+    padding: 10px;
+}
+
+.card-price {
+    font-size: 50px;
+}
+
+#card-btn {
+    height: 50px;
+    font-size: large;
+}
+
+.card-text {
+    color: #7b7b87;
+    font-family: 'Roboto', sans-serif;
+}
+
+@media screen and (max-width:1200px) {
+    #text-persuasive {
+        text-align: center;
+    }
+
+    .col {
+        margin-bottom: 15px;
+    }
+
+    .card {
+        justify-content: space-evenly
+    }
+}
