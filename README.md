@@ -5,6 +5,10 @@ Este repositório contém o projeto desenvolvido para o teste de estágio da emp
 ## Objetivo
 
 O objetivo deste projeto é criar um layout web que inclua os seguintes elementos:
+
+![Captura de tela 2024-08-13 160608](https://github.com/user-attachments/assets/2b6c93a5-ef3d-41f4-af80-a59ba78db65a)
+
+
 - Cabeçalho do site
 - Texto persuasivo
 - Comparativo de planos
@@ -23,7 +27,3 @@ O design deve refletir a identidade visual da Employ, utilizando a cor verde do 
 - HTML
 - CSS
 - Fontes: Mont (para o logotipo), Roboto (opcional)
-
-## Modelo Para ser Recriado
-
-![Captura de tela 2024-08-13 160608](https://github.com/user-attachments/assets/0c098a7d-b1f0-4014-8819-f83c30cb430d)
