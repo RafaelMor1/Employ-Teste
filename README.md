@@ -24,4 +24,6 @@ O design deve refletir a identidade visual da Employ, utilizando a cor verde do 
 - CSS
 - Fontes: Mont (para o logotipo), Roboto (opcional)
 
-- ![modelo-logico-banco-dados](https://github.com/user-attachments/assets/99bec2ac-6363-4cbf-81c4-64524318e25f)
+## Modelo Para ser Recriado
+
+![Captura de tela 2024-08-13 160608](https://github.com/user-attachments/assets/0c098a7d-b1f0-4014-8819-f83c30cb430d)
